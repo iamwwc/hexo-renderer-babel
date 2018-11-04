@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/townewgokgok/hexo-renderer-babel",
   "dependencies": {
-    "babel": "^4.7.16"
+    "babel": "^6.0.0"
   }
 }
